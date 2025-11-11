@@ -22,5 +22,9 @@
 - Windows: nvm-windows version **1.1.11**
 - Linux/WSL2: nvm version **0.40.3**
 
-### Tooling
-- TypeScript version: **5.9.3**
+### TypeScript
+- typescript: **5.9.3**
+
+### Backend
+- @fastify/cors: **11.1.0**
+- fastify: **5.6.2**
